@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: url(./img/images\ \(4\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.mk{
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-right: 20px;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img_mk{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    max-width: 300px;
+}
+
+.home{
+    display: flex;
+}
